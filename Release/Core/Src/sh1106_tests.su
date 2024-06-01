@@ -1,0 +1,13 @@
+../Core/Src/sh1106_tests.c:113:6:sh1106_TestBorder	16	static
+../Core/Src/sh1106_tests.c:139:6:sh1106_TestFonts1	8	static
+../Core/Src/sh1106_tests.c:172:6:sh1106_TestFonts2	16	static
+../Core/Src/sh1106_tests.c:194:6:sh1106_TestFPS	104	static
+../Core/Src/sh1106_tests.c:232:6:sh1106_TestLine	16	static
+../Core/Src/sh1106_tests.c:240:6:sh1106_TestRectangle	24	static
+../Core/Src/sh1106_tests.c:250:6:sh1106_TestRectangleFill	16	static
+../Core/Src/sh1106_tests.c:258:6:sh1106_TestCircle	8	static
+../Core/Src/sh1106_tests.c:273:6:sh1106_TestArc	24	static
+../Core/Src/sh1106_tests.c:280:6:sh1106_TestPolyline	32	static
+../Core/Src/sh1106_tests.c:297:6:sh1106_TestDrawBitmap	32	static
+../Core/Src/sh1106_tests.c:313:6:sh1106_TestAll	8	static
+../Core/Src/sh1106_tests.c:343:6:sh1106_GraficarMPU6050	0	static
